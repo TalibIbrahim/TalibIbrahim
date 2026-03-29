@@ -22,7 +22,6 @@ I'm a Computer Science student at the University of Management & Technology (GPA
 ### 📁 Featured Projects
 * **[Byters Food Review App](https://byters.vercel.app):** A full-stack review platform built with React.js, Node.js, MongoDB, and Redux, enabling users to rate restaurants with a secure authentication system.
 * **[QuickDrop (File Sharing Platform)](https://quickdrop-file.vercel.app):** A privacy-first multi-file sharing architecture utilizing React.js, Socket.io, and PeerJS for global and local peer-to-peer (P2P) capabilities alongside dynamic QR code generation.
-* **Solara:** A responsive weather application featuring real-time data fetching and geolocation support.
 * **SlingKick:** A 2D football puzzle game featuring custom game mechanics and physics.
 
 ### 📫 Let's Connect!
